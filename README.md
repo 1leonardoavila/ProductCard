@@ -1,4 +1,5 @@
 <h1 align="center"> Product Card </h1>
+<h1 align="center"> Rocket + Leo </h1>
 
 <p align="center">
 #boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
